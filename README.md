@@ -13,7 +13,7 @@
 - Created with HTML/CSS, JavaScript, Firebase
     <img src="image/VoiceArt.png" width="800px" height="500px">
 #### <a href="https://spellmanager-s449kim.herokuapp.com">Spell Manager (Aug 2020)</a>
-- A website for **Dungeons & Dragon** players to manage their spells and spellbooks
+- A website for **Dungeons & Dragons** players to manage their spells and spellbooks
 - Created with HTML/CSS, Ruby on Rails, SQL
 #### <a href="https://rails-wordgame-s449kim.herokuapp.com/">WordGame (Jul 2020)</a>
 - A website that allows users to play a word game just like **Hangman**
