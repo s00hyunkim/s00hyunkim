@@ -9,3 +9,4 @@
 ### I worked on these projects 🙋🏻‍♀️
 - <a href="https://devpost.com/software/voiceart">VoiceArt</a> - A website that allows users to create abstract art through an **hands-free** experience
     <img src="image/VoiceArt.png" width="800px" height="500px">
+- Did it work?
