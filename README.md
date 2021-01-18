@@ -1,4 +1,4 @@
-# Hey, welcome to my *GitHub*!
+# Hey there, welcome to my *GitHub*!
 > I've got some interesting projects to show you!
 
 ### My name is Soohyun Kim 👩🏻‍💻
