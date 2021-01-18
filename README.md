@@ -7,7 +7,7 @@
 - Former **automation engineer** @ Nissan Motor Corporation
 
 ### I worked on these projects 🙋🏻‍♀️
-#### Note: I've only listed websites - I have some more!
+#### Note: I only listed websites - I have some more!
 - <a href="https://devpost.com/software/voiceart">VoiceArt (Jan 2021)</a> - A website that allows users to create abstract art through an **hands-free** experience
     <img src="image/VoiceArt.png" width="800px" height="500px">
 - <a href="https://spellmanager-s449kim.herokuapp.com">Spell Manager (Aug 2020)</a> - A website for Dungeons & Dragon players to manage their spells and spellbooks
