@@ -24,7 +24,7 @@
 
 ### Aside from technical aspect, I'm interested in this 💁🏻‍♀️
 #### Cooking
-After the pandemic, I started to learn how to cook... But now I need to learn how to take better photos.
+After the pandemic, I started to learn how to cook. But now I need to learn how to take better photos...
 <img src="image/AglioOlio.jpg" width="800px" height="450px">
 
 ### You can contact me here 🙆🏻‍♀️
