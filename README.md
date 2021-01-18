@@ -12,5 +12,5 @@
 - 
 
 ### Want to contact me? 🙆🏻‍♀️
-<a href="linkedin.com/in/uw-soohyunkim"><img src="image/LinkedIn.png" width="50px" height="50px"></a>
-<a href="s449kim@uwaterloo.ca"><img src="image/Email.png" width="80px" height="80px"></a>
+<a href="https://linkedin.com/in/uw-soohyunkim"><img src="image/LinkedIn.png" width="50px" height="50px"></a>
+<a href="mailto:s449kim@uwaterloo.ca"><img src="image/Email.png" width="50px" height="50px"></a>
