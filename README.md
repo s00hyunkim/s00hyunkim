@@ -7,7 +7,7 @@
 - Former **automation engineer** @ Nissan Motor Corporation
 
 ### I worked on these projects 🙋🏻‍♀️
-<font size="2">Note: I only listed websites - I have some more!</font>
+##### Note: I only listed websites - I have some more!
 #### <a href="https://devpost.com/software/voiceart">VoiceArt (Jan 2021)</a>
 - A website that allows users to create abstract art through an **hands-free** experience
 - Created with HTML/CSS, JavaScript, Firebase
