@@ -1,5 +1,5 @@
 # Hey, welcome to my GitHub!
-> I've got some interesting projects to show you!
+I've got some interesting projects to show you!
 
 ### My name is Soohyun Kim 👩🏻‍💻
 - 3rd-year **Management Engineering** student @ University of Waterloo
