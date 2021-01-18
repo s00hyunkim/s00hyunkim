@@ -22,7 +22,7 @@
 - A review-aggregation website like **Rotten Tomatoes**
 - Created with HTML/CSS, Ruby on Rails, SQL
 
-### Aside from technical aspect, this is what I do 💁🏻‍♀️
+### Aside from technical aspect, I'm interested in this 💁🏻‍♀️
 #### Cooking
 After the pandemic, I started to learn how to cook... But now I need to learn how to take better photos.
 <img src="image/AglioOlio.jpg" width="800px" height="450px">
