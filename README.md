@@ -14,6 +14,6 @@
 - <a href="https://rails-wordgame-s449kim.herokuapp.com/">WordGame (Jul 2020)</a> - A website that allows users to play a word game just like Hangman
 - <a href="https://small-potatoes-s449kim.herokuapp.com">Small Potatoes (Jul 2020)</a> - A review-aggregation website like Rotten Tomatoes
 
-### Want to contact me? 🙆🏻‍♀️
+### You can contact me here 🙆🏻‍♀️
 <a href="https://linkedin.com/in/uw-soohyunkim"><img src="image/LinkedIn.png" width="50px" height="50px"></a>
 <a href="mailto:s449kim@uwaterloo.ca"><img src="image/Email.jpg" width="50px" height="50px"></a>
