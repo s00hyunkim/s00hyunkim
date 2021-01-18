@@ -7,5 +7,5 @@
 - Former automation engineer @ Nissan Motor Corporation
 
 ### Projects 🙋🏻‍♀️
-- [VoiceArt] (https://devpost.com/software/voiceart) - A website that allows users to create abstract art through an hands-free experience
-<img src="image/VoiceArt.png" height="40px">
+- <a href="https://devpost.com/software/voiceart">VoiceArt</a> - A website that allows users to create abstract art through an hands-free experience
+    <img src="image/VoiceArt.png" height="800px">
