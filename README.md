@@ -10,7 +10,7 @@
 (Note: I only listed websites that I made - I have some more!)
 #### <a href="https://devpost.com/software/voiceart">VoiceArt (Jan 2021)</a>
 - A website that allows users to create abstract art through an **hands-free** experience
-- Created with HTML/CSS, JavaScript, Firebase
+- Created with Figma, HTML/CSS, JavaScript, Firebase
     <img src="image/VoiceArt.png" width="800px" height="500px">
 #### <a href="https://spellmanager-s449kim.herokuapp.com">Spell Manager (Aug 2020)</a>
 - A website for **Dungeons & Dragons** players to manage their spells and spellbooks
