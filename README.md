@@ -22,6 +22,11 @@
 - A review-aggregation website like **Rotten Tomatoes**
 - Created with HTML/CSS, Ruby on Rails, SQL
 
+### Aside from technical aspect, this is what I do 💁🏻‍♀️
+#### Cooking
+After the pandemic, I started to learn how to cook... But now I need to learn how to take better photos.
+<img src="image/AglioOlio.jpg" width="800px" height="450px">
+
 ### You can contact me here 🙆🏻‍♀️
 <a href="https://linkedin.com/in/uw-soohyunkim"><img src="image/LinkedIn.png" width="50px" height="50px"></a>
 <a href="mailto:s449kim@uwaterloo.ca"><img src="image/Email.jpg" width="50px" height="50px"></a>
