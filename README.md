@@ -5,6 +5,7 @@
 - 3rd-year **Management Engineering** student @ University of Waterloo
 - Former **data engineer** @ Loblaw Companies Limited
 - Former **automation engineer** @ Nissan Motor Corporation
+- Data, software & AI/ML enthusiast
 
 ### I worked on these projects 🙋🏻‍♀️
 (Note: I only listed websites that I made - I have some more!)
