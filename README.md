@@ -1,14 +1,16 @@
-# Hey there, welcome to my *GitHub*!
+# Welcome to my GitHub!
 > I've got some interesting projects to show you!
 
-### My name is Soohyun Kim 👩🏻‍💻
-- 3rd-year **Management Engineering** student @ University of Waterloo
-- Former **data engineer** @ Loblaw Companies Limited
-- Former **automation engineer** @ Nissan Motor Corporation
+### 👩🏻‍🎓 My name is Soohyun Kim
+- 4th-year **Management Engineering** student @ University of Waterloo (expected to graduate in April 2023)
+- Current **DevOps Automation Engineer** @ Sun Life Financial
+- Former **Data Engineer** @ Loblaw Companies Limited
+- Former **Automation Engineer** @ Nissan Motor Corporation
 - Data, software & AI/ML enthusiast
 
-### I worked on these projects 🙋🏻‍♀️
-(Note: I only listed websites that I made - I have some more!)
+### 👩🏻‍💻 I worked on these projects
+#### <a href="https://devpost.com/software/voiceart">SmartManual (Apr 2023)</a>
+- An AI-powered website created for Final Year Design Project that allows non-experts to query their car-related questions using their own non-expert language
 #### <a href="https://devpost.com/software/voiceart">VoiceArt (Jan 2021)</a>
 - A website that allows users to create abstract art through an **hands-free** experience
 - Created with Figma, HTML/CSS, JavaScript, Firebase
@@ -22,11 +24,6 @@
 #### <a href="https://small-potatoes-s449kim.herokuapp.com">Small Potatoes (Jul 2020)</a>
 - A review-aggregation website like **Rotten Tomatoes**
 - Created with HTML/CSS, Ruby on Rails, SQL
-
-### Aside from technical aspect, I'm interested in this 💁🏻‍♀️
-#### Cooking
-After the pandemic, I started to learn how to cook. But now I need to learn how to take better photos...
-<img src="image/AglioOlio.jpg" width="800px" height="450px">
 
 ### You can contact me here 🙆🏻‍♀️
 <a href="https://linkedin.com/in/uw-soohyunkim"><img src="image/LinkedIn.png" width="50px" height="50px"></a>
