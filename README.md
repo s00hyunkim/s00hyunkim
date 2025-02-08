@@ -2,14 +2,14 @@
 > I've got some interesting projects to show you!
 
 ### 👩🏻‍🎓 My name is Soohyun Kim
-- 4th-year **Management Engineering** student @ University of Waterloo (expected to graduate in April 2023)
-- Current **DevOps Automation Engineer** @ Sun Life Financial
+- Current **Cloud DevOps Engineer** @ Sun Life Financial
 - Former **Data Engineer** @ Loblaw Companies Limited
 - Former **Automation Engineer** @ Nissan Motor Corporation
+- Alumni of **Management Engineering** @ University of Waterloo (graduated in April 2023)
 - Data, software & AI/ML enthusiast
 
 ### 👩🏻‍💻 I worked on these projects
-#### <a href="https://devpost.com/software/voiceart">SmartManual (Apr 2023)</a>
+#### <a href="https://drive.google.com/file/d/1x0QnM4RGB66VMYbTJnMKlgvgKuj-Lz6p/view?usp=sharing">SmartManual (Apr 2023)</a>
 - An AI-powered website created for Final Year Design Project that allows non-experts to query their car-related questions using their own non-expert language
 #### <a href="https://devpost.com/software/voiceart">VoiceArt (Jan 2021)</a>
 - A website that allows users to create abstract art through an **hands-free** experience
