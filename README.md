@@ -10,7 +10,7 @@
 
 ## 👩🏻‍💻 About Me
 
-![SoohyunKim](images/SoohyunKim.gif)
+<img height="300px" src="images/SoohyunKim.gif" width="300px"/>
 
 - Current **Cloud DevOps Engineer** @ Sun Life Financial
 - Former **Data Engineer** @ Loblaw Companies Limited
