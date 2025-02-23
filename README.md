@@ -10,13 +10,20 @@
 
 ## 👩🏻‍💻 About Me
 
-<img height="300px" src="images/SoohyunKim.gif" width="300px"/>
-
-- Current **Cloud DevOps Engineer** @ Sun Life Financial
-- Former **Data Engineer** @ Loblaw Companies Limited
-- Former **Automation Engineer** @ Nissan Motor Corporation
-- Alumni of **Management Engineering** with minor in Computing @ University of Waterloo (graduated in April 2023)
-- Software, automation & AI/ML enthusiast
+<table border="0">
+  <tr>
+    <td><img height="300px" src="images/SoohyunKim.gif" width="300px"/></td>
+    <td>
+      <ul>
+        <li>Current <b>Cloud DevOps Engineer</b> @ Sun Life Financial</li>
+        <li>Former <b>Data Engineer</b> @ Loblaw Companies Limited</li>
+        <li>Former <b>Automation Engineer</b> @ Nissan Motor Corporation</li>
+        <li>Alumni of <b>Management Engineering</b> with minor in Computing @ University of Waterloo (graduated in April 2023)</li>
+        <li>Software, automation & AI/ML enthusiast</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## ⚙️ Tech Stack
 
