@@ -49,7 +49,7 @@
 - **AI-powered** website created for Final Year Design Project that allows non-experts to query their car-related questions using their own non-expert language
 - Created with Figma, Python, JavaScript
 
-### <a href="https://devpost.com/software/voiceart">🗣️VoiceArt (Jan 2021)</a>
+### <a href="https://devpost.com/software/voiceart">🗣️ VoiceArt (Jan 2021)</a>
 
 - Website that allows users to create abstract art through a **hands-free** experience
 - Created with Figma, HTML/CSS, JavaScript, Firebase
