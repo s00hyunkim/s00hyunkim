@@ -10,7 +10,13 @@
 
 ## 👩🏻‍💻 About Me
 
-<table border="0">
+<style>
+table, th, td {
+   border: none;
+}
+</style>
+
+<table>
   <tr>
     <td><img height="300px" src="images/SoohyunKim.gif" width="300px"/></td>
     <td>
