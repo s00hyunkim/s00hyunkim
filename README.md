@@ -10,6 +10,8 @@
 
 ## 👩🏻‍💻 About Me
 
+![SoohyunKim](images/SoohyunKim.gif)
+
 - Current **Cloud DevOps Engineer** @ Sun Life Financial
 - Former **Data Engineer** @ Loblaw Companies Limited
 - Former **Automation Engineer** @ Nissan Motor Corporation
@@ -38,7 +40,7 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-blue?style=for-the-badge&logo=Bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-blue?style=for-the-badge&logo=Confluence&logoColor=white)  
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-darkblue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![VS_Code](https://img.shields.io/badge/Visual_Studio_Code-darkblue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-hotpink?style=for-the-badge&logo=IntelliJ&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-darkblue?style=for-the-badge&logo=Eclipse&logoColor=white)
 
