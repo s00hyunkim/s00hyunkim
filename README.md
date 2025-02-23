@@ -11,8 +11,8 @@
 ## 👩🏻‍💻 About Me
 
 <style>
-table, th, td {
-   border: none;
+td, th {
+   border: none!important;
 }
 </style>
 
